@@ -99,6 +99,13 @@
 
   }
 
+  /* h3{
+    margin: 0;
+    font-size: 6rem;
+    white-space: nowrap;
+    color: white;
+  } */
+
   .container{
     margin-top: 421px;
 
@@ -120,11 +127,48 @@
   .whisk_description{
   
       margin: 0;
-      font-size: 1.8rem;
-      font-style: italic;
+      font-size: 28px;
+      font-style: normal;
       color:white; 
+      position: relative;
+       left: 309px;
+       top: -442px;
+       
+}
       
-    
+  .whisk_heading {
+    margin: 0;
+    font-size: 45px;
+    white-space: nowrap;
+    color: white;
+    position: relative;
+    top: -470px;
+    right: -301px;
+
+
+  }  
+
+  
+  .whisk_price_and_information{
+    margin: 0;
+    font-size: 50px;
+    white-space: nowrap;
+    color: white;
+    position: relative;
+    top: -247px;
+    left: 275px;
+    top: -366px
+
+
 
   }
-  
+
+  span{
+    margin: 0;
+    font-size: 6rem;
+    white-space: nowrap;
+    color: white;
+
+
+
+  }
