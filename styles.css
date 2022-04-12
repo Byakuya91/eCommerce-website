@@ -21,7 +21,7 @@
     font-size: 18px;
   }
 
-  img { 
+  .cooking_background { 
     width: 100%;
     height: auto;
     opacity: 0.3;
@@ -66,7 +66,7 @@
     font-size: 6rem;
     white-space: nowrap;
   }
-  p {
+  .about_description {
     margin: 0;
     font-size: 1.8rem;
     font-style: italic;
@@ -74,6 +74,19 @@
      
     
   }
+  .product_description {
+    margin: 0;
+    font-size: 1.8rem;
+    font-style: italic;
+    color:white; 
+    
+  }
+
+
+
+
+
+
 
 
   h2{
@@ -88,6 +101,13 @@
 
   .container{
     margin-top: 421px;
+
+
+  }
+
+
+  .image_resizing{
+    size-adjust: 10;
 
 
   }
