@@ -47,8 +47,8 @@
 
 
   }
-
-  header {
+/* Changing the header class to one that affects only the welcome text */
+  .welcome_header {
     position: absolute;
     top: 50%;
     left: 50%;
