@@ -106,9 +106,25 @@
   }
 
 
-  .image_resizing{
+  .whisk_adjustment{
     size-adjust: 10;
+    position: relative;
+    left: -800px;
+    bottom: -100px;
+    
 
+
+  }
+
+
+  .whisk_description{
+  
+      margin: 0;
+      font-size: 1.8rem;
+      font-style: italic;
+      color:white; 
+      
+    
 
   }
   
