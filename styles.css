@@ -1,15 +1,9 @@
-.darkblue_white{
-
-    background-color: darkblue;
-    color: white;
-    font-weight: bold;
-    font: size 70px;
-}   
-
+  
 
 
 .container{
   position: relative;
+  margin-top: 421px;
 
 }
 
@@ -66,9 +60,24 @@
     font-size: 6rem;
     white-space: nowrap;
   }
+
+
+  .welcome_h1 {
+    text-transform: uppercase;
+    margin: 0;
+    font-size: 6rem;
+    white-space: nowrap;
+  }
+
+
+  
+
+
+
+
   .about_description {
     margin: 0;
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-style: italic;
     color:white;
      
@@ -76,7 +85,7 @@
   }
   .product_description {
     margin: 0;
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-style: italic;
     color:white; 
     
@@ -89,15 +98,18 @@
 
 
 
-  h2{
+  .about_h2{
     margin: 0;
     font-size: 6rem;
     white-space: nowrap;
     color: white;
+    position: relative;
+    top: -17px;
+}
 
 
 
-  }
+  
 
   /* h3{
     margin: 0;
@@ -106,10 +118,20 @@
     color: white;
   } */
 
-  .container{
+  /* .container{
     margin-top: 421px;
 
 
+  } */
+
+
+  .products_h2{
+    margin: 0;
+    font-size: 6rem;
+    white-space: nowrap;
+    color: white;
+    position: relative;
+    top: -16px;
   }
 
 
@@ -128,7 +150,7 @@
   
       margin: 0;
       font-size: 28px;
-      font-style: normal;
+      font-style: italic;
       color:white; 
       position: relative;
        left: 309px;
@@ -151,7 +173,8 @@
   
   .whisk_price_and_information{
     margin: 0;
-    font-size: 50px;
+    font-size: 35px;
+    font-style: italic;
     white-space: nowrap;
     color: white;
     position: relative;
@@ -163,12 +186,40 @@
 
   }
 
-  span{
+  .whisk_h4{
     margin: 0;
-    font-size: 6rem;
+    font-size: 50px;
     white-space: nowrap;
     color: white;
+    position: relative;
+    top: -247px;
+    left: 275px;
+    top: -394px;
+
 
 
 
   }
+
+
+
+
+
+
+  .whisk_price_span{
+    margin: 0;
+    font-size: 35px;
+    font-style: italic;
+    white-space: nowrap;
+    color: white;
+    position: relative;
+    top: -365px;
+    right: -277px;
+
+
+
+  }
+
+  /* p{
+    overflow-wrap: break-word;
+  } */
