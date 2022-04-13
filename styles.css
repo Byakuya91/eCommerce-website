@@ -83,6 +83,37 @@
      
     
   }
+
+
+.address_text{
+  margin: 0;
+  font-size: 2rem;
+  font-style: italic;
+  color:white;
+  position: relative;
+    bottom: -17px;
+
+}
+
+
+
+
+
+
+
+  .contact_description {
+    margin: 0;
+    font-size: 2rem;
+    font-style: italic;
+    color:white;
+     
+    
+  }
+
+
+
+
+
   .product_description {
     margin: 0;
     font-size: 2rem;
@@ -220,6 +251,9 @@
 
   }
 
-  /* p{
-    overflow-wrap: break-word;
-  } */
+  a:hover{
+   color:yellowgreen;
+   background-color: transparent;
+   text-decoration: underline;
+
+  }
